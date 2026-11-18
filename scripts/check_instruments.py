@@ -1,4 +1,4 @@
-"""
+r"""
 check_instruments.py
 
 Connects to the four bench instruments, confirms each one responds, and reads
